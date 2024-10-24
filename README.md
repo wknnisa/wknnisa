@@ -1,7 +1,7 @@
 # Hello, I'm [Nisa]! 👋
 
 ## About Me
-I’m a passionate developer who loves coding and open-source projects.
+I’m a passionate software developer who loves coding and open-source projects.
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wknnisa&show_icons=true&theme=radical)
@@ -16,7 +16,3 @@ I’m a passionate developer who loves coding and open-source projects.
 - Python
 - JavaScript
 - HTML & CSS
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
