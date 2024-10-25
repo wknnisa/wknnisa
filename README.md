@@ -13,6 +13,6 @@ I’m a passionate software developer who loves coding and open-source projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wknnisa&layout=compact&theme=nightowl)
 
 ## Technologies I Use
-- Python
+- C#
 - JavaScript
 - HTML & CSS
