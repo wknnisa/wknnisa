@@ -14,5 +14,3 @@ I’m a passionate software developer who loves coding and open-source projects.
 
 ## Technologies I Use
 - C#
-- JavaScript
-- HTML & CSS
