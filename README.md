@@ -1,4 +1,4 @@
-# Hello, I'm [Nisa]! 👋
+# Hello, I'm Nisa! 👋
 
 ## About Me
 I’m a passionate software developer who loves coding and open-source projects.
